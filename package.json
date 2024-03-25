@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "4.15.2",
+    "express": "4.19.2",
     "public-ip": "2.4.0",
     "nexmo": "2.2.1",
     "colors": "1.1.2",
